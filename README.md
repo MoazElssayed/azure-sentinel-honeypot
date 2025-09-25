@@ -40,7 +40,6 @@ Inspired by: [joshmadakor1/Sentinel-Lab](https://github.com/joshmadakor1/Sentine
 ![VMs Deployed](https://github.com/user-attachments/assets/f312a7b1-8e9d-401e-b80b-afaa38e5a119)
 ![Key Vault Created](https://github.com/user-attachments/assets/86bc2b32-00da-436c-8a90-821ec89011cd)  
 *Provisioned Azure Key Vault for generating and managing access keys.*  
-
 ![Storage Account Setup](https://github.com/user-attachments/assets/511c76e1-a3bc-48fe-821d-3de381db6d98)  
 *Storage account created to capture and export log data.*  
 
