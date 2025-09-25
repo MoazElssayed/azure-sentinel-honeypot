@@ -1,0 +1,5 @@
+SecurityEvent
+| where TimeGenerated >= ago(24h)
+| where EventID == 4625
+| summarize Failures = count() by IpAddress, TargetAccount = tostring(Account), Computer
+| order by Failures desc
